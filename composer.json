@@ -1,0 +1,10 @@
+{
+	"name": "tigerweb/hello",
+	"description": "The TigerWeb hello",
+	"type": "project",
+	"homepage": "https://tigerweb.ru",
+	"license": "MIT",
+	"keywords": [
+		"tigerweb"
+	]
+}
